@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Braise Fernandes.</h1>
-<h3 align="center">An aspiring Data Scientist from India</h3>
+<h3 align="center">An aspiring Data Scientist from India.</h3>
 
 - 🌱 I’m currently learning **Data Science.**
 
-- 👯 I’m looking to collaborate on **on some amazing projects.**
+- 👯 I’m looking to collaborate on ** some amazing projects.**
 
 - 📫 How to reach me **braisefernandes@gmail.com**
 
