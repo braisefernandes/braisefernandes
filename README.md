@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science.**
 
-- 👯 I’m looking to collaborate on ** some amazing projects.**
+- 👯 I’m looking to collaborate on **some amazing projects.**
 
 - 📫 How to reach me **braisefernandes@gmail.com**
 
