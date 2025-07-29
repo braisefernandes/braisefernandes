@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Data Science.**
 
-- 👯 I’m looking to collaborate on **some amazing projects.**
-
 - 📫 How to reach me **braisefernandes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
